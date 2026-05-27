@@ -1,0 +1,6 @@
+{
+  "brighthire": {
+    "type": "http",
+    "url": "https://app.brighthire.ai/mcp/v1/"
+  }
+}
